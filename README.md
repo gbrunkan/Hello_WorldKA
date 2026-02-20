@@ -2,4 +2,6 @@
 First Practice Repository
 ## Heading 1
 ### Heading 2
-**Bold**
+*Italics*
+**
+<ins>What happens here</ins>
